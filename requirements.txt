@@ -1,0 +1,5 @@
+
+gymnasium[classic-control]>=0.29.0
+stable-baselines3>=2.0.0
+torch>=2.0.0
+swanlab>=0.3.0
