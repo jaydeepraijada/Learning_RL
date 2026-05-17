@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+rl-course/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model outputs/checkpoints
+output/
+checkpoints/
+results/
+runs/
+
+# HuggingFace/cache
+.cache/
+huggingface/
+hf_cache/
+
+# Large model files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Training artifacts
+wandb/
+tensorboard/
+events.out.tfevents*
+
+# Optional datasets
+data/
+datasets/
+
+Qwen2.5-0.5B-Instruct/
+rl-course/
+02-DPO/output/
